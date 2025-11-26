@@ -1,0 +1,17 @@
+# Android
+.gradle/
+local.properties
+.idea/
+*.iml
+/build
+*.apk
+*.aab
+
+# Node / Docker
+node_modules/
+.env
+*.tar
+
+# OS
+.DS_Store
+Thumbs.db
